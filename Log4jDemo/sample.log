@@ -1,0 +1,9 @@
+Sample warn message
+Sample error message
+Sample fatal message
+Sample warn message
+Sample error message
+Sample fatal message
+1    [main] WARN  com.pack.Main2  - Sample warn message
+1    [main] ERROR com.pack.Main2  - Sample error message
+1    [main] FATAL com.pack.Main2  - Sample fatal message
